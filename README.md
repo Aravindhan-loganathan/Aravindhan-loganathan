@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=3000&pause=1000&color=FFB347&center=true&vCenter=true&width=700&lines=Aravindhan+L;Full+Stack+Developer+|+AI+ML+Enthusiast;MERN+%7C+AI%2FML;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=3000&pause=1000&color=FFB347&center=true&vCenter=true&width=700&lines=Aravindhan+L;Full+Stack+Developer+|+AI+ML+Enthusiast;MERN+%7C+AI%2FML" alt="Typing SVG" />
 
 <br/>
 
