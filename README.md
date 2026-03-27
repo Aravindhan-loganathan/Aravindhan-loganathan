@@ -110,24 +110,6 @@ A **full-stack AI-powered classroom assistant** that transforms lecture recordin
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aravindhan-loganathan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9&text_color=c9d1d9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan-loganathan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindhan-loganathan&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=f97316&currStreakLabel=6d28d9" />
-
-</div>
-
----
-
 
 <div align="center">
 
@@ -151,10 +133,3 @@ A **full-stack AI-powered classroom assistant** that transforms lecture recordin
 
 </div>
 
----
-
-<div align="center">
-
-<sub>⭐ If you find my projects useful, a star goes a long way — thank you!</sub>
-
-</div>
