@@ -98,7 +98,7 @@ A **full-stack AI-powered classroom assistant** that transforms lecture recordin
 - Google Gemini API for intelligent content generation
 - jsPDF for generating downloadable study materials
 
-[![Live](https://img.shields.io/badge/🌐_Live-lecturetovoicenotes.vercel.app-6d28d9?style=flat-square)](https://lecturetovoicenotes.vercel.app)
+[![Live](https://img.shields.io/badge/🌐_Live-lecturetovoicenotes.vercel.app-6d28d9?style=flat-square)]([https://lecturetovoicenotes.vercel.app](https://lecturetovoicenotes.vercel.app/))
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
